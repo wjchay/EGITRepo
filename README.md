@@ -1,0 +1,2 @@
+# EGITRepo
+Sample EGIT Repository
