@@ -1,0 +1,9 @@
+# generated class files
+/bin/
+
+# generated Javadoc
+/doc/
+
+# Eclipse files
+.project
+.metadata
